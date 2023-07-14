@@ -1,0 +1,10 @@
+{
+  "editor.fontSize": 16,
+  "editor.fontFamily": "monolisa",
+  "editor.cursorStyle": "line",
+  "editor.wordWrap": "on",
+  "editor.autoClosingBrackets": "always",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.defaultFormatter": "HookyQR.beautify",
+  "editor.fontLigatures": false
+}
